@@ -1,0 +1,4 @@
+===== Results for subtype_1_vs_Normal =====
+p-value cutoff : 0.05
+LogFC >= 2 (up) : 2033, 3.91%
+LogFC >= -2 (down) : 505, 0.97%
